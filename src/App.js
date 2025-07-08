@@ -316,7 +316,7 @@ const Portfolio = () => {
               </div>
               
               <div className="mb-6">
-                <h4 className="text-lg font-semibold text-gray-900 mb-3">Key Coursework</h4>
+                <h4 className="text-lg font-semibold text-gray-900 mb-3">Coursework</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div>
                     <h5 className="font-medium text-gray-800 mb-2">Computer Science</h5>
